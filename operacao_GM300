@@ -1,0 +1,330 @@
+Motorola GM300
+
+
+Características do Rádio
+As seguintes características são padronizadas em todos os modelos:
+Operação sintetizada de Faixa-Larga
+Capacidade de Silenciamento de Codificação Múltipla (Linha Privada e Linha Privada Digital) .
+Varredura de Canais Selecionável pelo Operador
+Capacidade de Programação de Campo pelo Revendedor
+Performance Mil-Spec 8 lo C, D e E
+Microfone Compacto de Alta Perforrnance
+Suporte sem Trava
+Cabo de Alimentação de 3 Metros
+Alimentação 12 VCC Terra Negativo
+Falante Interno de 3 Watt
+Controle de Volume Rotativo
+Temporizador
+Capacidade de Monitoramento Tipo Fone no Gancho
+Conector de Antena Mini-UHF
+
+Auto-Verificação do Rádio
+Toda vez que o rádio é ligado, ele realiza uma auto-verificação funcional e, se necessário,soará por 5 segundos um tom de advertência em lugar do tom normal ouvido na ativação.Isto é uma indicação de que o rádio não está operando nos parâmetros exatos calibrados na fábrica ou campo e deve ser corrigido imediatamente.
+Manutenção
+Porque este equipamento contém um transmissor de rádio, a maioria dos govemos proiíbe a realização de ajustes intemos no transmissor a não ser por pessoa autorizada pelos regulamentos governamentais. Se o seu rádio não funciona ou ocorre alguma dificuldade operacional, contate seu revendedor Motorola.
+Procedimentos adequados para reparo e manutenção, assegurarão operação eficiente e longa vida para este rádio.
+
+
+
+CARACTERÍSTICAS PROGRAMÁVEIS 
+
+Capacidade de Programação no Campo
+O Rádio Móvel GM300 usa uma memória não-volátil para armazenar informações específicas do usuário. Se a frequência, código de silenciamento ou a lista de varredura de canais necessitam ser alterados, isto pode ser feito no local com o Software de Manutenção de Rádio (RSS). O temporizador pode ser desabilitado ou alterado para qualquer duração de 1 a 255 segundos. O padrão é 30 segundos. Não é necessário abrir o rádio para reprogramá-lo.
+Os rádios com varredura podem também ser programados para habilitar a função Scan Talk-Back ou alterar a taxa de amostragem de canal prioritário. Finalmente, os rádios de 16 canais são fomecidos com Sinalização de Chamada Rápida e Conector de Acessórios Expandido e podem ser programados para apresentar uma grande variedade de características e acessórios.
+
+Sinalização de Chamada Rápida
+Os GM300 de 16 canais estão disponíveis com Chamada Rápida, um pacote de sinalização seletiva. Os rádios podem ser programados com uma impressionante variedade de características para melhorar a sua eficiência como usuário de rádio. Essas características incluem: Identificação Pressione-para-Falar (PTT-lD), Emergência, Alerta de Chamada, Luzes de Alerta, Chamada Seletiva com Voz, e Verificação de Alcance.
+Os Rádios móveis com Chamada Rápida podem transmitir sua identificação e alarme de emergência para a unidade central, bem como receber Alerta de Chamada, Luzes de Alerta, Chamada Seletiva com Voz ou Verificação de Alcance.
+
+Os Rádios móveis também podem ser programados para exercer as funções de unidade central: receber e mostrar a identificação ou emergência, e enviar Alerta de Chamada, Luzes de Alerta, Chamada Seletiva com Voz ou Verificação de Alcance.
+Os modelos com Chamada Rápida possuem um conector de acessórios expandido, perrnitindo grande flexibilidade na inclusão de hardware externo tal como Endereçamento Público. Consulte o seu Representante Radius para maiores informações.
+
+Temporizador
+Todos os modelos possuem um Temporizador (TOT) que encerrará sua transmissão se você apertar o botão PTT por mais de 30 segundos. Para avisar o usuário, um tom de alerta soará no alto-falante cerca de 4 segundos antes da transmissão ser cortada. O Temporizador pode ser desabilitado ou alterado.
+
+
+
+Introduções de Operação para Motorola
+
+Radius GM300 - Rádio FM Convencional
+Modelo 8 Canais
+
+
+
+Gire o botão ON/OFF VOLUME para a direita até ouvir o click. A luz dos LEDS mostrará o último status do rádio e um som será ouvido.
+
+Para receber
+Posicione o volume girando o botão ON/OFF VOLUME no sentido do relógio. Selecione o canal pressionando o botão UP/DOWN, Para percorrer os canais,
+mantenha a tecla pressionada.
+Para monitorar um canal, pressione o botão MONITOR ou tire o microfone do gancho. Quando em modo monitor, o LED MONITOR âmbar irá acender.
+Para desativar o silenciador, mantenha pressionado o botão MONITOR por 2 segundos.
+Para abandonar o modo sem silenciador, pressione o botão MONITOR novamente. Isto fará com que o rádio retome para o modo de silenciador codificado (PL/DPL).
+Um curto tom agudo será ouvido quando uma tecla válida é pressionada.
+
+Para transmitir
+Quando o canal está livre, pressione e mantenha o botão Pressione-Para-Falar (PTT) ao lado do microfone e fale lenta e claramente.
+O LED vermelho TRANSMIT/BUSY ficará aceso até que o botão PTT seja liberado para indicar que você está "no ai'. O LED vermelho TRANSMIT/BUSY irá piscar quando houver outra portadora no canal selecionado.
+NOTA: Se o seu rádio tem a função de temporização ativada, a transmissão irá terminar se você segurar o botão PTT por mais de 60 segundos ou no período pré-programado. Quando isto ocorre, um tom de alerta soará por 4 segundos antes de interromper a transmissão. Para retomar a transmissão libere o PTT e pressione novamente.
+
+Varredura de Canais
+O modelo GM300 móvel de 8 canais pode ter uma lista de varredura programável via painel frontal.
+Para ativar e desativar a varredura
+Pressione o botão SCAN. O rádio somente fará a varredura se o microfone estiver
+no gancho.
+O LED verde de varredura acenderá e alguns segmentos do display acenderão para indicar que a varredura está funcionando.
+
+
+
+
+Quando um canal ativo é detectado, o número do canal será exibido e você ouvirá um chamado. Para sair da varredura, pressione o botão SCAN.
+Para responder a um canal ativo selecionado por varredura
+Quando o microfone é tirado do gancho, o rádio suspenderá a varredura e retomará ao canal que estava sinalizado antes de se entrar na varredura. Se você quer transmitir em um outro canal, pressione o botão UP/DOWN para atingir o canal desejado. A varredura continuará depois que o microfone for recolocado no gancho.
+Quando fizer varredura com prioridade, o LED verde de varredura irá piscar para indicar atividade em Prioridade Um e se acenderá para Prioridade Dois.
+
+Para deletar um canal indesejado
+Durante a recepção de uma transmissão indesejada, pressione o botão SELECT por dois segundos e o canalindesejado será temporariamente eliminado (até que se saia da varredura ou se desligue o rádio). Os canais prioritários e os residentes não podem ser eliminados.
+
+
+Para criar ou modificar uma lista do usuário
+Pressione o botão SCAN por dois segundos até ouvir um segundo tom e o número do canal piscar. O canal exibido poderá ser adicionado ou eliminado da lista de varredura do usuário pressionando o botão SELECT.
+
+Um segmento vertical no canto superior esquerdo do display irá acender e piscará alternadamente com o número do canal para indicar que o canal foi adicionado à lista de varredura. O segmento irá desaparecer quando o canal for eliminado.
+Use os botões UP/DOWN e SELECT para incluir ou eliminar outros canais desejados na lista do usuário.
+Para selecionar prioridades para a lista do usuário
+Vá para o canal desejado e pressione o botão SELECT por dois segundos. O LED de varredura irá piscar para indicar que este é o canal de primeira prioridade. Repita o processo para selecionar o canal de segunda prioridade. A Prioridade Dois será indicada pelo acendimento do LED de varredura.
+
+O canal de Prioridade Um deve ser programado primeiro, seguido pelo canal de Prioridade Dois. A eliminação de um dos dois irá eliminar ambos simultaneamente.
+
+Instruções de Operação de Chamada Rápida para o
+Rádio Móvel Motorola Radius GM300
+Modelo 16 Canais
+
+
+O LED Monitor acende na operação normal para indicar o modo monitor. Para indicar a chegada de uma chamada seletiva, o LED Monitor irá piscar e o mostrador indicará a abreviação de letras apropriadas.
+
+Recebendo uma Chamada Seletiva com Voz
+Quando uma Chamada Seletiva com Voz é recebida, um alerta de dois toques soará, o LED Monitor âmbar irá pulsar e o mostrador indicará "SC"
+O áudio do rádio abrirá, seguindo-se uma mensagem de voz. Após o encerramento da transmissão, o rádio retornará para a operação normal.
+
+
+Recebendo um Alerta de Chamada
+Quando um Alerta de Chamada é recebido o LED Monitor âmbar pulsará e vai soar uma série de 4 tons de alerta. O mostrador indicará "CA". Dependendo da forma de sinalização, uma mensagem de voz poderá ocorrer.
+Um Alerta de Chamada "deixa uma mensagem" para o operador móvel. O LED Monitor continuará a piscar, o "CA" permanecerá no mostrador e os tons de alerta serão repetidos a cada lo segundos até que o I'TT ou qualquer outro botão seja pressionado. O rádio então retornará à operação normal.
+
+Recebendo um Alarme Externo (Horn/Lights)
+A função de Alarme Extemo ou Hom/Lights requer um cabo de alarme com relé. Para permitir que um Alerta de Chamada recebido acione a buzina e%u os faróis, pressione o botão SELECT e o display mostrará "HL". A duração do alarme extemo é de 6 segundos.
+Há um pequeno retardo antes que o relé de faróis/buzina seja ativado. Um operador dentro ou próximo do veículo verá ou ouvirá a indicação de Alerta de Chamada e terá a oportunidade de desligar o Alarme Extemo antes de o mesmo soar. Isto é feito pressionando qualquer botão do rádio ou retirando o microfone do gancho.
+
+Sinalização Seletiva Móvel (Unidade de Campo)
+
+Enviando um Número de Identificação
+Cada vez que a tecla Pressione-para-Transmitir é pressionada, o rádio automaticamente transmite um número de identificação da unidade. Ao pressionar a tecla PTT, um tom, pode ser ouvido enquanto o número de identificação da unidade está sendo transmitido. Não comece a falar até que o tom desapareça.
+
+Enviando um Alarme de Emergência
+Para transmitir um chamado de emergência, é preciso acionar uma chave ou botão externos.
+Se programado para STANDARD EMERGENCY, ocorrerá o seguinte:
+O operador ouvirá um simples tom de alerta quando a Emergência é enviada para o rádio e o LED de transmissão irá acender.
+As letras "EE" aparecerão no mostrador.
+Cinco tons de alerta soarão para indicar que a unidade de controle recebeu e confirmou a Emergência. O "EE" irá desaparecer do mostrador.
+Mensagens serão ouvidas no falante do rádio durante a Emergência.
+Os LED'S Monitor e Busy funcionarão normalmente durante a Emergência.
+O único meio de cancelar a emergência é pressionar o PTT. Nenhum outro botão irá operar normalmente exceto Monitor.
+Se for programado EMERGENCY REVERT, o rádio automaticamente trocará (reverterá) para um canal de emergência para enviar um chamado. O mostrador de canais exibirá o canal de emergência após limpar o "EE".
+Se for programado SILENT EMERGENCY, não haverá indicação de áudio ou visual de que a emergência foi enviada e o rádio permanecerá mudo. O operador deve pressionar o PTT para iniciar uma mensagem de voz e iniciar a recepção novamente.
+
+Sinalização e Varredura de Canais
+Sinalização e varredura são compatíveis. Porém, durante a operação de varredura, uma chamada seletiva em um canal particular pode ser perdida se o rádio não estiver verificando o canal quando a chamada seletiva for enviada.
+Recomenda-se que a varredura de prioridade seja selecionada e o canal de sinalização seja designado como um canal de prioridade para melhorar a probabilidade de que a chamada seletiva seja recebida.
+
+Sinalização Seletiva da Unidade de Controle
+
+
+
+Exibição dos Números de Identificação Recebidos
+Quando um operador no sistema pressiona o PTT, o número de identificação da unidade (ID) será exibido no mostrador por lo segundos ou menos se um outro ID está sendo recebido.
+
+Ativando a Lista de Chamada Para Enviar Mensagens Seletivas
+
+Pressionando o botão SELECT será ativada a Lista de Chamada. O mais recente número de ID e as letras de chamada serão alternadamente exibidos. As seguintes letras de chamadas podem ser mostradas quando se usa uma lista de chamada:
+SC - Chamada Seletiva com voz : Chama uma unidade particular ou grupo com uma
+mensagem de voz.
+CA - Alerta de Chamada: Seleciona uma unidade ou grupo e deixa um indicador de
+retomo de chamada.
+CH - Verificação do Rádio : Verifica se a unidade está ligada e dentro do alcance.
+Essas letras alternarão no mostrador com o número da unidade ou do grupo.
+
+Escolhendo Letras da Lista de Chamada e Números de Identificação (ID)
+Cada pressão no botão SELECT faz o mostrador mover para baixo as letras da lista de chamada que foram programadas para a unidade.
+Pressionando os botões UP/DOWN serão trocados os números de ID. Todos os números da Lista de Chamada serão exibidos com cada conjunto das letras de chamada. Porém, alguns ID'S podem não ser compatíveis com certos tipos de chamadas. Por exemplo, um ID de grupo não pode ser Verificado pelo Rádio. Nesses casos, a pressão do PTT resultará em um tom grave para indicar que a função não está disponível.
+
+Sinalização Seletiva da Unidade de Controle
+Enviando uma mensagem de sinalização
+Uma vez que as letras de chamada e o número de ID foram selecionados, pressione o PTT para enviar a mensagem. O mostrador reverterá para o canal de transmissão pré-programado para enviar a mensagem de sinalização e o canal será rapidamente exibido enquanto a mensagem está sendo transmitida.
+
+Recebendo uma Confirmação
+Dependendo do formato de sinalização usado, o rádio transmissor pode esperar por uma confirmação da unidade receptora nas Alerta de Chamadas e chamadas de Verificação de Rádio.
+O rádio emissor mostrará um "A" e 4 tons de alerta soarão se a unidade destino receber e confirmar a chamada. Se nenhuma confirmação é recebida, a unidade emissora fará outras 4 tentativas. Se não houver sucesso, um "-A" será exibido e um tom grave soará para indicar falta de confirmação.
+
+Saindo da Lista de Chamada
+O botão SELECT é usado para sair da lista de chamada de sinalização. O pressionamento repetido do botão Select obtém uma das letras da sequência de chamada para o mostrador de canal para operação normal.
+Recebendo um Alarme de Emergência
+Quando um alarme de emergência é recebido pela unidade de controle, um tom de alerta ocorrerá. O mostrador alternará "EE" e o número de ID do rádio emissor da emergência.
+Cinco diferentes ID'S de emergência podem ser listados. Porém, o primeiro ID recebido será exibido até ser liberado. O próximo ID na fila será exibido até que cada um seja exibido e liberado. Pressione PTT para responder a um alerta de emergência.
+
+Se o rádio emissor foi programado para uma emergência silenciosa ele permanecerá mudo e nenhuma mensagem será ouvida. Porém, outros rádios usando o mesmo canal receberão a transmissão.
+
+Liberando um Alarme de Emergência
+Para prevenir a perda acidental de uma emergência que está sendo recebida, foi projetada a liberação de um alarme,em duas etapas. Primeiro, o tom de alerta deve ser desligado pelo pressionamento de qualquer botão do rádio. O segundo passo requer o uso de um botão extremo. Somente a pressão no botão extremo irá encerrar a exibição da Emergência.
+
+GM300 - Instruções de Operação de Acesso Telefônico ANI
+
+O rádio está no modo de operação normal
+Verifique o LED Busy para assegurar-se que o canal está livre antes de pressionar o botão Select. 
+Pressione o botão SELECT. O código de acesso DTMF será automaticamente transmitido e "PH" surgirá no mostrador. 
+
+
+Uma chamada pode ser manualmente conduzida usando-se o microfone de Código de Toque. O rádio estará no modo de silenciamento por portadora.
+Pressione o Select após completar a chamada para enviar o código de desacesso. O rádio retomará ao modo de operação normal e para o seu estado
+anterior. Veja Nota 3.
+
+Nota 1: Se você pressiona o botão SELECT quando o canal está ocupado você ouvirá um tom grave. O rádio reverterá para o modo monitor de modo que você poderá ouvir um canal livre. Pressione o botão Select novamente para enviar o Código de Acesso.
+Nota 2: Se o sinal perdeu o código de Acesso quando ele foi enviado, o usuário teria de pressionar Select duas vezes para reacessar : um para desacessar e outro para acessar. O mesmo caso é válido para desacessar.
+Nota 3: Se o rádio reverteu para o modo monitor por causa de um canal ocupado antes do Acesso, ele retomará para o monitor após desacessar. Senão o rádio retornará para silenciador codificado.
+
+
+Lista de Memória de Fone
+Até 16 números de telefone podem ser programados pelo revendedor. Um identificador de um ou dois dígitos será usado para representaros números de telefone.
+Pressione o botão Select para entrar no modo Fone. Selecione a Lista de Memória de Fone usando os botões Up/Down. O primeiro toque no botão Up/Down irá rechamar o último número discado. (Este não é salvo se o rádio for desligado).
+Subsequentes oyrolongada pressão do botão Up/Down farão percorrer a lista.
+Pressione o PTT para enviar uma chamada para um número selecionado a partir da lista. O rádio reverterá para o modo Fone após completar a ligação.
+
+
+
+
+
+PADRÕES DE SEGURANÇA
+O FCC, com suas ações no General Docket 79-144, 13 de Março de 1986, adotou padrões de segurança para a exposição de seres humanos a frequências eletromagnéticas de rádio emitidas por um equipamento regulamentado pelo FCC. A Motorola recomenda os mesmos padrões de segurança para o uso de seus produtos. O uso apropriado deste rádio resultará em uma exposição abaixo dos limites governamentais.
+As seguintes precauções são recomendadas:
+NÃO opere o transmissor de um rádio móvel quando alguém fora do veículo estiver num raio de 0,6 metro da antena.
+NÃO opere o transmissor de um rádio fixo (estação base, microonda, equipamento de telefonia rural de RF) ou rádio naval quando alguém estiver num raio de 0,6 metro da antena.
+NÃO opere o transmissor de qualquer rádio a não ser que todos os conectores de RF estejam seguros e qualquer conector aberto esteja com a terminação apropriada.
+NÃO opere o equipamento próximo a campos elétricos ou em atmosfera explosiva.
+Todo o equipamento deve ser apropriadamente aterrado de acordo com instruções da Motorola para uma operação segura.
+Todo equipamento deve ser mantido somente por pessoal técnico qualificado.
+
+
+INSTRUÇÕES DE SEGURANÇA
+AVISO SOBRE SEGURANÇA NA INSTALAÇÃO
+Considere a segurança dos ocupantes do veículo quando escolher a localização do rádio. Não monte o rádio acima da cabeça ou lateralmente a não ser que tome precauções especiais.
+Se alguém remover o rádio e não recolocá-lo apropriadamente, as ondulações das ruas podem soltar o rádio. Em sua queda ele pode causar sérias lesões no motorista ou nos passageiros. Em uma colisão, mesmo quando apropriadamente instalado, o rádio poderá soltar-se e ser perigosamente projetado.
+Se você montar o rádio por sobre a cabeça ou lateralmente, instale um retentor adicional.
+AVISO PARA UMA OPERAÇÃO SEGURA
+Para veículos equipados com sistemas de freio "anti-skid", veja a publicação "ANTI-SKID BRAKING PRECAUTIONS" da Motorola número 68P81109E34.
+Para veículos equipados com sistema de ignição eletrônica, verifique o manual de manutenção para avisos sobre o uso de rádios receptores/transmissores no veículo.
+É obrigatório que a instalação de rádios em veículos abastecidos com gás liquefeito de petróleo sigam o seguinte padrão:
+O padrão NFPA 58 da National Fire Protection Association aplica-se à instalação de rádios em veículos movidos a gás liquefeito de petróleo (GLP) com o reservatório de gás no porta-malas ou em outro espaço selado no interior do veículo. Esse padrão requer que:
+Qualquer espaço contendo o equipamento de rádio deve ser isolado por uma tampa do espaço no qual está localizado o reservatório de gás e seu regulador.
+Conexões extemas devem ser usadas.
+CUIDADO
+INSTALAÇÃO DE ANTENAS DE EQUIPAMENTOS MÓVEIS DE RÁDIO COM POTÊNCIA DE TRANSMISSÃO ACIMA DE 7 WATTS
+
+NOTA: Para rádios de baixa potência (7 watts ou menos), não há restrições de tipo de antena ou instalação.
+Veículos de carroceria não-metálica - Em um veículo de corpo não-metálico com transmissores de qualquer frequência tendo uma potência de saída que exceda 7 watts, não instale qualquer tipo de antena com distância menor que 60 cm de qualquer ocupante do veículo. A não obediência a este procedimento pode resultar em exposição dos ocupantes do veículo a níveis de energia de rádio-frequência maiores que os recomendados pelo ANSI.
+Veículos de carroceria metálica - Em um veículo de corpo metálico com transmissores de qualquer frequência tendo uma potência de saída que exceda 7 watts, é obrigatório que ao usar uma antena montada no vidro do veículo sejam seguidas as instruções de montagem para a antena e o posicionamento dos cabos exatamente como descrito. A não obediência a este procedimento pode resultar em exposição dos ocupantes do veículo a níveis de energia de rádio-frequência maiores que os recomendados pelo ANSI.
+Para outros tipos de antenas siga as instruções de instalação existentes. A melhor localização para a antena é no centro do teto do veículo. Uma boa alternativa é o centro da tampa do porta-malas.
+IMPORTANTE - Se instalações diferentes dessas rècomendações foram realizadas, imediatamente notifique sua assistência técnica para que as ações corretivas necessárias sejam feitas.
+
+CUIDADO
+USO INSEGURO DE EQUIPAMENTO MÓVEL CONVERTIDO PARA APLI CAÇÕES PORTÁTEIS
+
+Os produtos de rádio da Motorola que foram projetados para operação móvel não devem ser usados como unidades portáteis alimentadas por baterias. Nestes casos há o perigo de exposição do usuário ou outras pessoas a níveis excessivos de frequências de rádio. Este aviso aplica-se a todo equipamento transmissor/receptor que propaga uma potência de RF superior a 7 watts. A Motorola fortemente recomenda que qualquer produto que converta equipamento de alta potência para operação portátil não seja usado.
+
+
+
+PLANEJAMENTO E PROCEDIMENTOS DE INSTALAÇÃO
+
+Teste e Manutenção
+Seu rádio está completamente ajustado,testado e inspecionado antes de sair da fábrica. Porém, regulamentos do govemo local podem estabelecer que uma licença de estação deve ser obtida para cada instalação de rádio (móvel ou base) pelo proprietário do equipamento. O fomecedor da licença da estação é responsável pela verificação de que a potência da estação, frequência, e desvio estejam dentro dos limites permitidos para a estação licenciada.
+Nenhuma licença técnica é requerida para instalar ou manter o equipamento de rádio. Porém a frequência e o desvio do transmissor devem ser verificados na instalação e pelo menos uma vez ao ano.
+
+Circuito de Proteção de Potência
+O rádio móvel que você está instalando foi testado para ter a potência adequada de transmissão antes de deixar a fábrica. Cada rádio é calibrado para o adequado nível de potência de saída conectado a uma acurada carga de 50 ohms de impedância. Uma vez que o nível de potência foi ajustado, os circuitos intemos de controle/proteção de potência reduzirão a potência de saída quando sentirem uma impedância de carga diferente de 50 ohms. Estes circuitos de proteção aumentam significativamente a confiabilidade do rádio com mínima degradação de performance.
+Se você verificar os níveis de potência de saída durante a instalação, assegure-se que esteja usando uma boa carga de 50 ohms, com um mínimo de adaptadores e usando cabos de teste curtos. Qualquer variação da carga de 50 ohms pode causar uma aparente redução na potência de saída devido à operação normal dos circuitos de proteção. Se a potência for muito baixa (diferenças acima daquelas habitualmente encontradas), verifique seu equipamento de testes. Se a potência aumenta à medida que você melhora a qualidade da impedância de carga (assegure-se de desligar quando fizer qualquer troca de carga), os circuitos de controle estarão operando normalmente.
+Descasamentos típicos na impedância de carga (maior que 1.2:1 VSWR) podem resultar em uma variação de 10 a 20ib na medida da potência de saída. Dentro desses limites, o rádio opera normalmente e você não deve tentar consertá-lo.
+
+Planejamento de Instalação . Rádios Móveis
+Planejamento é a chave para a instalação rápida e fácil do rádio. Antes de fazer um furo ou passar um cabo, inspecione o veículo e determine como e onde você tenciona montar a antena, rádio e acessórios. Planeje a passagem de cabos e fios para obter a máxima proteção contra esmagamentos, quebras e super-aquecimento.
+
+Planejamento de Instalação - Estações Base
+A opção de estação de base provê o rádio com um microfone de mesa e fonte de alimentação para uso em uma localização fixa. Todas as operações são iguais às do móvel, exceto pelo microfone de mesa.
+
+Encontre uma localização para sua estação base tão próxima quanto possível de onde o cabo da antena entra no prédio. Assegure-se que uma alimentação de 1 17 V CA, 60 Hz está disponível. Certifique-se de que suficiente ar pode fluir em volta do rádio para permitir resfriamento adequado.
+
+
+
+Ferramentas recomendadas para instalação
+As seguintes ferramentas são recomendadas para a instalação adequada do seu rádio novo:
+Furadeira portátil
+Chave de porca de 5/16"
+Chave de porca 1/4"
+Chave Phillips #1
+Chave Phillips #2
+Chave de fenda de 3/16"
+Broca de 3/8"
+Broca de 5/16"
+Broca de 5/32"
+Montagem da Antena
+A melhor localização para montagem da antena é no centro de uma grande e plana superfície condutiva. Em quase todos os veículos estas exigências são melhor atendidas com a montagem da antena no centro do teto do veículo. Alguns veículos possuem uma grande tampa de porta-malas que é uma boa localização para a antena. Se a tampa do porta-malas for usada, conecte fios-terra entre a tampa do porta-malas e o chassis do veículo. Veja o manual de instruções do fornecedor da antena para informações completas sobre a instalação.
+ 
+INSTALAÇÃO DO RÁDIO
+Suporte Articulado
+O suporte padrão articulado permite que o rádio seja montado em diversas superfícies. Assegure-se que a superfície de montagem pode suportar adequadamente o peso do rádio. Disponha de suficiente espaço ao redor do rádio para livre circulação de ar para resfriamento. Assegure-se que a unidade está próxima o suficiente do operador do veículo para permitir fácil acesso aos controles. Embora o sufrte possa ser montado em um painel de plástico, recomenda-se que os parafuso de montagem sejam localizados de tal forma que penetrem no metal de suporte do painel.
+
+Montagem no Piso
+Uma cunha para montagem no piso (HLN9450) está disponível. Ela permite que o rádio seja inclinado 45 ou 60 graus. (HLN9404 - Cantoneira de montagem escrava é requerida).
+
+Montagem com Engate Rápido
+Esta opção está disponível para permitir fácil remoção e instalação do rádio. Isto pode ser desejado pelo operador por razões de segurança ou para permitir o uso do rádio em vários veículos. Esta montagem fixa seguramente o rádio e faz todas as conexões elétricas,incluindo a conexão da antena.
+
+Bandeja de Montagem de Estabilidade Extra
+A bandeja de montagem de estabilidade extra é usada em conjunção ao suporte sem, trava. Se o rádio é montado em uma superfície arredondada, você pode necessitar de calços (não fornecidos) entre o suporte e a superfície de montagem. Calços são necessários para inclinar o rádio porque o suporte bloqueia os ajustes. 
+
+Siga as instruções fornecidas com esta opção.
+
+Suporte com Trava
+A opção de suporte com trava consiste de duas peças equipadas com uma chave de trava e parafusos de montagem e é projetada para fácilremoção. O suporte com trava pode ser montado em superfícies de metal ou plástico, desde que a superfície suporte o peso do rádio.
+
+
+
+Siga as instruções fornecidas com esta opção
+Antes de tentar instalar o suporte com trava, examine o veículo para determinar as localizações de montagem. Este suporte requer uma superfície plana, com um mínimo de 20 cm x 5 cm e espaço adequado para inserção do rádio. O local escolhido deve ser conveniente para o operador do veículo e permitir acesso dos conectores de alimentação e antena. Escolha um local de montagem que permita a remoção do suporte. A operação do veículo não deverá ser impedida pela localização do suporte do rádio.
+Nota: Não é recomendado instalar o aparelho acima das cabeças dos ocupantes do veículo.
+
+
+
+
+
+
+
+
+
+INSTALAÇÃO DO SUPORTE ARTICULADO SEM TRAVA
+(Veja Figura 4)
+Selecione o local para montar o rádio no túnel da transmissão do carro ou sob o painel. (veja Figura 4).
+Usando o suporte de montagem articulado como referência, marque as posições dos furos na superfície de montagem. Use os três furos mais intemos para a montagem em superfícies curvas, como o túnel da transmissão, e os quatro mais externos para superfícies planas, como sob o painel.
+Marque com uma punção os pontos desejados e faça furos de 5/32".
+Fixe com firmeza o suporte, e fixe o rádio com os dois parafusos de borboleta fornecidos.
+Para completar a instalação de seu rádio conecte o cabo de força no conector de alimentação do rádio (veja Figura 3).
+Monte a antena usando as instruções fornecidas com o kit de antena. Passe o cabo coaxial para o local de montagem do rádio. Se necessário, corte o excesso de cabo e instale os conectores.
+Conecte o cabo da antena ao rádio na parte traseira do mesmo (veja Figura 3).
+Monte o prendedor do microfone. Siga as instruções fornecidas com o prendedor do microfone.
+
+Conecte o microfone no conector do painel frontal. Seu microfone possui um conector telefônico no fim do cabo. Conecte e desconecte o Microfone do Rádio da mesma maneira que você conecta e desconecta seu telefone.
+
+
+
+
+
+
+
+
